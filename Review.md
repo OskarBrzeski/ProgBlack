@@ -12,7 +12,7 @@ The content was varied across many different areas where computer science has ma
 - On some pages the text extended beyond the main container and into the footer leading to somewhat unreadable text.
 - The links on the left sidebar were okay, but could've been jazzed up a lot more, much like the rest of the website :D
 
-### Mark:
+### Mark: Good (5/10)
 
 ## Quality of Written Presentation
 
