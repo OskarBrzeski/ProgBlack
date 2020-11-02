@@ -7,8 +7,8 @@ The content was varied across many different areas where computer science has ma
 ### Mark: Excellent (7/10)
 
 ## Consistency and Quality of Visual Presentation
-The visual presentation was consistent across all of the webpages but however, the colour scheme was very bland and not very visually stimulating.
-The navigation bar didn't add much to the website and contained no links to any actual webpages, losing a lot of potential functionality.
+- The visual presentation was consistent across all of the webpages but however, the colour scheme was very bland and not very visually stimulating.
+- The navigation bar didn't add much to the website and contained no links to any actual webpages, losing a lot of potential functionality.
 
 ### Mark:
 
