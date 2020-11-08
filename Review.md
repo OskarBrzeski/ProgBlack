@@ -17,12 +17,14 @@ The content was varied across many different areas where computer science has ma
 ## Quality of Written Presentation
 - The quality of the written presentation was very good with good use of headings and bolder text.
 - The use of links and lists made it easier to understand what was being talked about.
+- The author details were clear and easy to understand with the use of colons
+- There were a few grammatical and spelling errors on some of the pages
+- Overall, the content of the webpages was very good and provided a lot of useful information.
 
-
-
-### Mark:
+### Mark: Outstanding (8/10)
 
 ## Validity of HTML
+
 
 ### Mark:
 
