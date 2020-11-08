@@ -31,6 +31,10 @@ The content was varied across many different areas where computer science has ma
 ### Mark: Very good (6/10)
 
 ## Evidence of Collaboration
-- We can see that 
+- We can see that each person did commit to the github repo.
+- It is clear to see that you have worked together on this with a consistent format and style.
 
-### Mark:
+### Mark: Outstanding (8/10)
+
+## Overall
+### Mark: Excellent (7/10)
