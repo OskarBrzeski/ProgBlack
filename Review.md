@@ -10,11 +10,15 @@ The content was varied across many different areas where computer science has ma
 - The visual presentation was consistent across all of the webpages but however, the colour scheme was very bland and not very visually stimulating.
 - The navigation bar didn't add much to the website and contained no links to any actual webpages, losing a lot of potential functionality.
 - On some pages the text extended beyond the main container and into the footer leading to somewhat unreadable text.
-- The links on the left sidebar were okay, but could've been jazzed up a lot more, much like the rest of the website :D
+- The links on the left sidebar were okay, but could've been jazzed up a lot more with some colour.
 
 ### Mark: Good (5/10)
 
 ## Quality of Written Presentation
+- The quality of the written presentation was very good with good use of headings and bolder text.
+- The use of links and lists made it easier to understand what was being talked about.
+
+
 
 ### Mark:
 
